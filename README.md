@@ -14,7 +14,7 @@
 - Install [Truffle](https://www.trufflesuite.com/docs/truffle/overview), In your terminal, you can check to see if you have truffle by running `truffle --version`. To install truffle run `npm i -g truffle`.
 - Install [Ganache-cli](https://github.com/trufflesuite/ganache). To see if you have ganache-cli installed, in your command line type `ganache-cli --version`. To install, in your command line type `npm install ganache-cli --global`
 
-## Setting Up
+## Setting Up#####
 ### 1. Clone/Download the Repository
 
 ### 2. Install Dependencies:
